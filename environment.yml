@@ -1,5 +1,5 @@
-name: spechla_env
-prefix: /app/SpecHLA/spechla_env
+name: SpecHLA
+prefix: /app/env/spechla_env
 channels:
   - conda-forge
   - bioconda
